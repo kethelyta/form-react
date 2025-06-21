@@ -1,17 +1,17 @@
-<<<<<<< HEAD
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # form-react
-Formulário simples em react
->>>>>>> 9cffbfb07ace1e01b3e92df057696689cfa9ae2c
+
+Formulário simples criado com React e Vite.
+
+---
+
+## Como executar
+
+1. Certifique-se de ter o [Node.js](https://nodejs.org/) instalado.
+
+2. No terminal, dentro da pasta do projeto, rode:
+
+npm i
+npm run dev 
+
+
+![Captura de tela 2025-06-18 180125](https://github.com/user-attachments/assets/ec7411d5-4f43-4342-99e0-f36757cfc386)
