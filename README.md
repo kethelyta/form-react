@@ -11,6 +11,8 @@ Formulário simples criado com React e Vite.
 2. No terminal, dentro da pasta do projeto, rode:
 
 npm i
+
+
 npm run dev 
 
 
